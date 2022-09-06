@@ -4,4 +4,7 @@ public class Java1 {
 
     // some text
     // class created
+    // hello world
+    // wooden spoon
+
 }
